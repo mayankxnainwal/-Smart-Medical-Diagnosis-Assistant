@@ -1,0 +1,17 @@
+text,label
+"Patient has fever, cough, fatigue, sore throat",flu
+"High fever, body ache, chills, and tiredness",flu
+"Severe headache, sensitivity to light, stiff neck",meningitis
+"Skin rash, itching, redness on arms",allergy
+"Shortness of breath, chest pain, rapid heartbeat",heart_disease
+"Dry cough, loss of smell, and breathing difficulty",covid
+"Severe abdominal pain, vomiting, and loss of appetite",appendicitis
+"Frequent urination, increased thirst, unexplained weight loss",diabetes
+"Joint pain, swelling, and morning stiffness",arthritis
+"Severe ear pain, discharge from ear, mild fever",ear_infection
+"Eye redness, itching, and watery discharge",conjunctivitis
+"Frequent sneezing, nasal congestion, runny nose",cold
+"Chest tightness, wheezing, difficulty breathing",asthma
+"Pain while urinating, lower abdominal pain",urinary_infection
+"Yellowing of skin and eyes, fatigue, nausea",jaundice
+
